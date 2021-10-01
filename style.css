@@ -1,0 +1,115 @@
+    * {
+        box-sizing: border-box;
+    }
+    
+    body {
+        font-family: 'Ephesis', cursive;
+        margin: 0px;
+        background-color: black;
+    }
+    
+    header {
+        background-color: black;
+        margin: 0px;
+    }
+    
+    nav h2 {
+        display: inline-block;
+        margin-left: 10px;
+        color: white;
+    }
+    
+    .start {
+        background-image: url("images/ff8de4c6-f511-4a14-99a7-78dbe6869c74-GettyImages-1131890997.jpg");
+        background-size: cover;
+    }
+    
+    .start h2 {
+        text-align: center;
+        color: white;
+        margin-bottom: 50px;
+    }
+    
+    .start p {
+        margin-top: 500px;
+        text-align: center;
+        color: white;
+    }
+    
+    .main-nav {
+        list-style-type: none;
+        display: inline-block;
+        margin-left: 80%;
+    }
+    
+    .main-nav li {
+        display: inline-block;
+    }
+    
+    .main-nav li a {
+        color: white;
+        text-decoration: none;
+    }
+    
+    .first {
+        border: 10px dotted white;
+        padding: 20px;
+    }
+    
+    .image1 img {
+        border-radius: 50%;
+        height: 400px;
+        width: 400px;
+        margin-left: 43%;
+    }
+    
+    .image2 img {
+        border-radius: 50%;
+        height: 400px;
+        width: 400px;
+        margin-top: 50px;
+        margin-left: 43%;
+    }
+    
+    .second {
+        border: 10px dotted white;
+        padding: 20px;
+    }
+    
+    .third {
+        border: 10px dotted white;
+        padding: 20px;
+    }
+    
+    .image3 img {
+        border-radius: 50%;
+        height: 400px;
+        width: 400px;
+        margin-top: 50px;
+        margin-left: 43%;
+    }
+    
+    .image4 img {
+        border-radius: 50%;
+        height: 400px;
+        width: 400px;
+        margin-top: 50px;
+        margin-left: 43%;
+    }
+    
+    .fourth {
+        border: 10px dotted white;
+        padding: 20px;
+    }
+    
+    .card {
+        width: 700px;
+        display: inline-block;
+        margin: 20px;
+        color: white;
+    }
+    
+    footer {
+        color: white;
+        margin-left: 90%;
+    }
